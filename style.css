@@ -1,0 +1,37 @@
+button{
+    padding-top: 100px;
+}
+
+div, footer{
+    text-align: center;
+}
+
+h1{
+    padding-bottom: 50px;
+}
+
+footer{
+    margin-top: 200px;
+}
+
+.anim-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    position: relative;
+    gap: 15px;
+    padding-bottom: 300px;
+    padding-top: 300px;
+}
+
+
+
+.anim{
+    width: 75px;
+    height: 75px;
+    background-color: cyan;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    border-radius: 15%;
+}
