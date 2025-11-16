@@ -1,0 +1,15 @@
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\bin\Debug\net8.0\Algoritmus.exe
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\bin\Debug\net8.0\Algoritmus.deps.json
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\bin\Debug\net8.0\Algoritmus.runtimeconfig.json
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\bin\Debug\net8.0\Algoritmus.dll
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\bin\Debug\net8.0\Algoritmus.pdb
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.AssemblyInfoInputs.cache
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.AssemblyInfo.cs
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.sourcelink.json
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.dll
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\refint\Algoritmus.dll
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.pdb
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\Algoritmus.genruntimeconfig.cache
+C:\Users\rolib\Documents\iskola\Visual Studio\HTML\host\braunroland.github.io\Algoritmus\obj\Debug\net8.0\ref\Algoritmus.dll

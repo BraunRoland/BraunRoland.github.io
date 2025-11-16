@@ -1,0 +1,84 @@
+body{
+    background-color: white;
+}
+
+.container
+{
+    background-color: white;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button{
+    padding-top: 100px;
+    margin-top: 100px;
+}
+
+div, footer{
+    text-align: center;
+}
+
+h1,h5{
+    padding-bottom: 50px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.iframe{
+    height: 100%;
+    width: 50%;
+    margin-bottom: 75px;
+}
+
+footer{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-top: solid lightgrey 1px;
+}
+
+.anim-div{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    gap: 15px;
+    padding-bottom: 270px;
+    padding-top: 250px;
+}
+
+.bucket{
+    margin-top: 850px;
+    width: 75px;
+    height: 2px;
+    background-color: rgb(216, 45, 45);
+    display: inline-block;
+    /*position: absolute;*/
+    text-align: center;
+    
+}
+
+.list{
+    text-align: start;
+}
+
+.myChart{
+    max-width: 100%;
+    height: 5000px;
+    margin-bottom: 100px;
+}
+
+.anim{
+    width: 75px;
+    height: 75px;
+    background-color: cyan;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    border-radius: 15%;
+}
+
+#osszeg{
+    margin-top: 50px;
+}
